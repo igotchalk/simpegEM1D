@@ -10,6 +10,7 @@ dependencies:
   - ipywidgets
   - pandas
   - ipykernel
+  - voila
   - pip:
     - scipy==1.4.1
     - git+https://github.com/simpeg/simpegEM1D.git@master

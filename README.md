@@ -6,7 +6,11 @@ Here we assumed that the earth conductivity struture is layered. Each of layers 
 
 [![Build Status](https://travis-ci.org/simpeg/simpegEM1D.svg?branch=master)](https://travis-ci.org/simpeg/simpegEM1D)
 
+Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igotchalk/simpegEM1D/master?filepath=notebooks%2Fexamples%2FEM1D_inversion_TD_layers_widget.ipynb)
+
+Voila binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igotchalk/simpegEM1D/master?urlpath=voila%2Frender%2Fnotebooks%2Fexamples%2FEM1D_inversion_TD_layers_widget.ipynb)
 
 
 Code:
@@ -17,4 +21,5 @@ Bugs & Issues:
 
 
 
-###[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg/simpegEM1D/master?filepath=notebooks)
+simpegEM1D home binder:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg/simpegEM1D/master?filepath=notebooks)

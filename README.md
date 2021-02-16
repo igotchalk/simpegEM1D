@@ -10,8 +10,8 @@ Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igotchalk/simpegEM1D/master?filepath=notebooks%2Fexamples%2FEM1D_inversion_TD_layers_widget.ipynb)
 
 Voila binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igotchalk/simpegEM1D/master?urlpath=voila%2Frender%2Fnotebooks%2Fexamples%2FEM1D_inversion_TD_layers_widget.ipynb)
-
+<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igotchalk/simpegEM1D/master?urlpath=voila%2Frender%2Fnotebooks%2Fexamples%2FEM1D_inversion_TD_layers_widget.ipynb) -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igotchalk/simpegEM1D/master?urlpath=voila%2Frender%2Fnotebooks%2Fexamples%2Faem_widget.ipynb)
 
 Code:
 [https://github.com/simpeg/simpegem1d](https://github.com/simpeg/simpegem1d)
